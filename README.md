@@ -1,1 +1,1 @@
-Add this code to a GameObject with a RigidBody2d and a SpriteShape Controller
+Add this code to a GameObject with a SpriteShape Controller. It can follow another Object with a Rigidbody2D and create the limb as it goes
